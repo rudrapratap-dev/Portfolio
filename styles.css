@@ -16,12 +16,16 @@
     background: #333;
     color: #fff;
     padding: 1rem 0;
+    
   }
   
   .container {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
   }
   
   .logo {
